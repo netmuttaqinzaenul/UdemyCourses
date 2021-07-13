@@ -21,6 +21,9 @@
     "jsx": "react-jsx"
   },
   "include": [
-    "src"
+    "src",
+    "src/app",
+    "src/feature",
+    "src/feature/activities/dashboard"
   ]
 }
